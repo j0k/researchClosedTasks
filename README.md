@@ -1,5 +1,5 @@
 # Research Closed Tasks
-Short quite researching tasks
+Quite short and short quite researching tasks
 
 # researchXorLinOp.nb
 Here is task discription about xor-linear operator.
